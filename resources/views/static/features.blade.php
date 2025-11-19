@@ -1,4 +1,3 @@
-{{-- static/features.blade.php --}}
 @extends('layouts.app')
 
 @section('title', 'Features')

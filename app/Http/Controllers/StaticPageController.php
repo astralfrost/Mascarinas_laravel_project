@@ -1,5 +1,5 @@
 <?php
-// app/Http/Controllers/StaticPageController.php
+
 namespace App\Http\Controllers;
 
 class StaticPageController extends Controller

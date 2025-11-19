@@ -49,7 +49,6 @@
     @endforeach
 </div>
 
-<!-- Create Category Modal -->
 <div class="modal fade" id="createCategoryModal" tabindex="-1">
     <div class="modal-dialog">
         <div class="modal-content">
@@ -78,7 +77,6 @@
     </div>
 </div>
 
-<!-- Edit Category Modal -->
 <div class="modal fade" id="editCategoryModal" tabindex="-1">
     <div class="modal-dialog">
         <div class="modal-content">
